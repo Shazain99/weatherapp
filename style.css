@@ -91,7 +91,7 @@ body {
 
 .content_section form input {
   width: 100%;
-  height: 50%;
+  height: 100%;
   outline: none;
   background: transparent;
   border: 1px solid #37474f;
