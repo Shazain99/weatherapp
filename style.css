@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url("weather.png");
+    background-image: url("image/weather.png");
     background-size: cover;
   
     font-family: "Poppins", sans-serif;
@@ -21,7 +21,7 @@ body {
 
 .container {
   max-width: 800px;
-  width: 70%;
+  width: %;
   background-color: #4c76774b;
   color: #fff;
   border-radius: 25px;
