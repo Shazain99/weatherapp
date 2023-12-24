@@ -147,9 +147,9 @@ function forecast(frContent) {
 
 // Move API keys to a separate configuration object
 const apiConfig = {
-  username: 'Shazain99',
-  password: 'Sha2624@',
-  apiKey: '4fc6e9e4dc719167d0a991b47e15d6a1-eee55b0f-8a77-4a56-a83c-a62d69d9daf5'
+ username: 'Shazain99',
+ password: 'Sha2624@',
+ apiKey: '4fc6e9e4dc719167d0a991b47e15d6a1-eee55b0f-8a77-4a56-a83c-a62d69d9daf5'
 };
 
 function sendMessage(weatherContent) {
