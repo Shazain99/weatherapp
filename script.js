@@ -147,13 +147,13 @@ function forecast(frContent) {
 
 // Move API keys to a separate configuration object
 const apiConfig = {
- username: 'Shazain99',
- password: 'Sha2624@',
- apiKey: '4fc6e9e4dc719167d0a991b47e15d6a1-eee55b0f-8a77-4a56-a83c-a62d69d9daf5'
+ username: 'shazain12',
+ password: 'Sha3734@',
+ apiKey: '3b9387843b9b2987e69163b5b5746452-008c9dd5-4184-498a-b173-ce5ec9975774'
 };
 
 function sendMessage(weatherContent) {
-  const phoneNumber = '+94724717316'; // Replace with the desired phone number
+  const phoneNumber = '+94701070053'; // Replace with the desired phone number
 
   const endpoint = 'https://dk9mp1.api.infobip.com/sms/2/text/single';
   const authHeader = 'Basic ' + btoa(`${apiConfig.username}:${apiConfig.password}`);
